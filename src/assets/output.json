@@ -1,0 +1,270 @@
+{
+    "1":{
+        "Question": "What is the opposite of 'up'?",
+        "OptionA": "A) Down",
+        "OptionB": "B) Left",
+        "OptionC": "C) Right",
+        "OptionD": "D) Above",
+        "CorrectOption": "A"
+    },
+    "2":{
+
+        "Question": "What is the result of 65 divided by 41 plus 41 multiplied by 65?",
+        "OptionA": "A) 2666",
+        "OptionB": "B) -2664",
+        "OptionC": "C) 2665",
+        "OptionD": "D) 2666",
+        "CorrectOption": "A"
+    },
+    "3":{
+       
+        "Question": "John's father's sister is Mike's mother. How is Mike related to John?",
+        "OptionA": "A) Aunt",
+        "OptionB": "B) Uncle",
+        "OptionC": "C) Sister",
+        "OptionD": "D) Brother",
+        "CorrectOption": "A"
+    },
+    "4":{
+        
+        "Question": "A and B invest in a business in the ratio 3 : 3. If they share a profit of Rs. 1098 after 2 years, how much does each get?",
+        "OptionA": "A) 277",
+        "OptionB": "B) 821",
+        "OptionC": "C) 177",
+        "OptionD": "D) 921",
+        "CorrectOption": "A"
+    },
+    "5":{
+        
+        "Question": "What is the meaning of the word 'ubiquitous'?",
+        "OptionA": "A) Present everywhere",
+        "OptionB": "B) Unique",
+        "OptionC": "C) Rare",
+        "OptionD": "D) Limited to a region",
+        "CorrectOption": "A"
+    },
+    "6":{
+        
+        "Question": "A and B invest in a business in the ratio 3 : 4. If they share a profit of Rs. 1252 after 4 years, how much does each get?",
+        "OptionA": "A) 500",
+        "OptionB": "B) 752",
+        "OptionC": "C) 400",
+        "OptionD": "D) 852",
+        "CorrectOption": "A"
+    },
+    "7":{
+        
+        "Question": "What is the result of 77 divided by 41 plus 41 multiplied by 77?",
+        "OptionA": "A) 3158",
+        "OptionB": "B) -3156",
+        "OptionC": "C) 3157",
+        "OptionD": "D) 3158",
+        "CorrectOption": "A"
+    },
+    "8":{
+        
+        "Question": "If 'BENCH' is coded as 'FJSLR', what is the code for 'APPLE'?",
+        "OptionA": "A) FPXMP",
+        "OptionB": "B) FUURP",
+        "OptionC": "C) FPYOM",
+        "OptionD": "D) FFUEM",
+        "CorrectOption": "B"
+    },
+    "9":{
+        
+        "Question": "If A sits next to B, and B sits next to C, who sits in the middle?",
+        "OptionA": "A) A",
+        "OptionB": "B) B",
+        "OptionC": "C) C",
+        "OptionD": "D) D",
+        "CorrectOption": "B"
+    },
+    "10":{
+        
+        "Question": "A shopkeeper sells an item at Rs. 6003 with a profit of 40%. What is the cost price of the item?",
+        "OptionA": "A) 4288",
+        "OptionB": "B) 4088",
+        "OptionC": "C) 4588",
+        "OptionD": "D) 8576",
+        "CorrectOption": "A"
+    },
+    "11":{
+        
+        "Question": "A and B invest in a business in the ratio 3 : 1. If they share a profit of Rs. 932 after 4 years, how much does each get?",
+        "OptionA": "A) 412",
+        "OptionB": "B) 520",
+        "OptionC": "C) 312",
+        "OptionD": "D) 620",
+        "CorrectOption": "A"
+    },
+    "12":{
+        
+        "Question": "What is the result of 91 divided by 25 plus 25 multiplied by 91?",
+        "OptionA": "A) 2278",
+        "OptionB": "B) -2272",
+        "OptionC": "C) 2275",
+        "OptionD": "D) 2278",
+        "CorrectOption": "A"
+    },
+    "13":{
+        
+        "Question": "If you are facing north and you turn 90 degrees clockwise, which direction are you facing now?",
+        "OptionA": "A) East",
+        "OptionB": "B) West",
+        "OptionC": "C) South",
+        "OptionD": "D) North-East",
+        "CorrectOption": "A"
+    },
+    "14":{
+        
+        "Question": "What is the compound interest on a principal amount of Rs. 48588 at 12% per annum compounded annually for 4 years?",
+        "OptionA": "A) 76454",
+        "OptionB": "B) 81454",
+        "OptionC": "C) 73454",
+        "OptionD": "D) 152908",
+        "CorrectOption": "A"
+    },
+    "15":{
+        
+        "Question": "What is the compound interest on a principal amount of Rs. 24679 at 11% per annum compounded annually for 5 years?",
+        "OptionA": "A) 41585",
+        "OptionB": "B) 46585",
+        "OptionC": "C) 38585",
+        "OptionD": "D) 83170",
+        "CorrectOption": "A"
+    },
+    "16":{
+        "Question": "What number comes next in the sequence: 3, 5, 10, ___?",
+        "OptionA": "A) 4",
+        "OptionB": "B) 5",
+        "OptionC": "C) 3",
+        "OptionD": "D) 8",
+        "CorrectOption": "A"
+    },
+    "17":{
+        
+        "Question": "A and B invest in a business in the ratio 4 : 2. If they share a profit of Rs. 1986 after 2 years, how much does each get?",
+        "OptionA": "A) 1291",
+        "OptionB": "B) 695",
+        "OptionC": "C) 1191",
+        "OptionD": "D) 795",
+        "CorrectOption": "A"
+    },
+    "18":{
+        
+        "Question": "A train running at the speed of 73 km/hr crosses a pole in 6 seconds. What is the length of the train?",
+        "OptionA": "A) 121",
+        "OptionB": "B) 131",
+        "OptionC": "C) 111",
+        "OptionD": "D) 141",
+        "CorrectOption": "A"
+    },
+    "19":{
+        
+        "Question": "A and B invest in a business in the ratio 1 : 4. If they share a profit of Rs. 707 after 1 years, how much does each get?",
+        "OptionA": "A) 261",
+        "OptionB": "B) 446",
+        "OptionC": "C) 161",
+        "OptionD": "D) 546",
+        "CorrectOption": "A"
+    },
+    "20":{
+        
+        "Question": "What is the compound interest on a principal amount of Rs. 41193 at 14% per annum compounded annually for 1 years?",
+        "OptionA": "A) 46960",
+        "OptionB": "B) 51960",
+        "OptionC": "C) 43960",
+        "OptionD": "D) 93920",
+        "CorrectOption": "A"
+    },
+    "21":{
+        
+        "Question": "What number comes next in the sequence: 7, 6, 9, ___?",
+        "OptionA": "A) 7",
+        "OptionB": "B) 8",
+        "OptionC": "C) 6",
+        "OptionD": "D) 14",
+        "CorrectOption": "A"
+    },
+    "22":{
+        
+        "Question": "What is the result of 56 divided by 24 plus 24 multiplied by 56?",
+        "OptionA": "A) 1346",
+        "OptionB": "B) -1342",
+        "OptionC": "C) 1344",
+        "OptionD": "D) 1346",
+        "CorrectOption": "A"
+    },
+    "23":{
+        
+        "Question": "What is the result of 97 divided by 36 plus 36 multiplied by 97?",
+        "OptionA": "A) 3494",
+        "OptionB": "B) -3490",
+        "OptionC": "C) 3492",
+        "OptionD": "D) 3494",
+        "CorrectOption": "A"
+    },
+    "24":{
+        
+        "Question": "What is the compound interest on a principal amount of Rs. 27206 at 7% per annum compounded annually for 5 years?",
+        "OptionA": "A) 38157",
+        "OptionB": "B) 43157",
+        "OptionC": "C) 35157",
+        "OptionD": "D) 76314",
+        "CorrectOption": "A"
+    },
+    "25":{
+        
+        "Question": "A shopkeeper sells an item at Rs. 2114 with a profit of 19%. What is the cost price of the item?",
+        "OptionA": "A) 1777",
+        "OptionB": "B) 1577",
+        "OptionC": "C) 2077",
+        "OptionD": "D) 3554",
+        "CorrectOption": "A"
+    },
+    "26":{
+        
+        "Question": "A and B invest in a business in the ratio 1 : 1. If they share a profit of Rs. 1484 after 2 years, how much does each get?",
+        "OptionA": "A) 894",
+        "OptionB": "B) 590",
+        "OptionC": "C) 794",
+        "OptionD": "D) 690",
+        "CorrectOption": "A"
+    },
+    "27":{
+        
+        "Question": "A train running at the speed of 50 km/hr crosses a pole in 8 seconds. What is the length of the train?",
+        "OptionA": "A) 111",
+        "OptionB": "B) 121",
+        "OptionC": "C) 101",
+        "OptionD": "D) 131",
+        "CorrectOption": "A"
+    },
+    "28":{
+        
+        "Question": "What is the result of 72 divided by 13 plus 13 multiplied by 72?",
+        "OptionA": "A) 941",
+        "OptionB": "B) -931",
+        "OptionC": "C) 936",
+        "OptionD": "D) 941",
+        "CorrectOption": "A"
+    },
+    "29":{
+        
+        "Question": "A and B invest in a business in the ratio 4 : 3. If they share a profit of Rs. 1208 after 5 years, how much does each get?",
+        "OptionA": "A) 670",
+        "OptionB": "B) 538",
+        "OptionC": "C) 570",
+        "OptionD": "D) 638",
+        "CorrectOption": "A"
+    },
+    "30":{
+        
+        "Question": "A train running at the speed of 57 km/hr crosses a pole in 10 seconds. What is the length of the train?",
+        "OptionA": "A) 158",
+        "OptionB": "B) 168",
+        "OptionC": "C) 148",
+        "OptionD": "D) 178",
+        "CorrectOption": "A"
+    }
+}
