@@ -1,13 +1,12 @@
 import React from "react";
 import { useState } from "react";
 
-function Main({Question, OptionA, OptionB, OptionC, OptionD, CorrectOption }) {
-  const [question, setQuestion] = useState(Question);
-  const [op1, setOp1] = useState(OptionA);
-  const [op2, setOp2] = useState(OptionB);
-  const [op3, setOp3] = useState(OptionC);
-  const [op4, setOp4] = useState(OptionD);
-
+function Main() {
+  // const [question, setQuestion] = useState(Question);
+  // const [op1, setOp1] = useState(OptionA);
+  // const [op2, setOp2] = useState(OptionB);
+  // const [op3, setOp3] = useState(OptionC);
+  // const [op4, setOp4] = useState(OptionD);
 
   return (
     <div>
@@ -17,33 +16,25 @@ function Main({Question, OptionA, OptionB, OptionC, OptionD, CorrectOption }) {
 
         {/* questions */}
         <div className="m-4 grid gap-4">
-          <div className=" min-h-[150px] rounded-lg">{question}</div>
+          <div className=" min-h-[150px] rounded-lg"></div>
         </div>
 
         {/* answers */}
         <div className="m-3 py-3 grid">
           <div className=" min-h-[100px]">
-            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg">
-              {op1}
-            </div>
+            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg"></div>
           </div>
 
           <div className=" min-h-[100px]">
-            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg">
-              {op2}
-            </div>
+            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg"></div>
           </div>
 
           <div className=" min-h-[100px]">
-            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg">
-              {op3}
-            </div>
+            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg"></div>
           </div>
 
           <div className=" min-h-[100px]">
-            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg">
-              {op4}
-            </div>
+            <div className=" min-h-[80px] hover:border-blue-500 border-4 rounded-lg"></div>
           </div>
         </div>
 
